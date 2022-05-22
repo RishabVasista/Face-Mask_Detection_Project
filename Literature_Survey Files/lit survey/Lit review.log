@@ -1,0 +1,327 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.16)  26 SEP 2021 20:46
+entering extended mode
+**"./Lit review.tex"
+(Lit review.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Program Files (x86)\miktex\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Program Files (x86)\miktex\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files (x86)\miktex\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Program Files (x86)\miktex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files (x86)\miktex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files (x86)\miktex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+))
+(C:\Program Files (x86)\miktex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Program Files (x86)\miktex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks19
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files (x86)\miktex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files (x86)\miktex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Program Files (x86)\miktex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files (x86)\miktex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(C:\Program Files (x86)\miktex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files (x86)\miktex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files (x86)\miktex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files (x86)\miktex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Program Files (x86)\miktex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box52
+)
+(Lit review.aux
+
+LaTeX Warning: Label `fig 11' multiply defined.
+
+)
+\openout1 = `"Lit review.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (C:\Program Files (x86)\miktex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen151
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks25
+) (C:\Program Files (x86)\miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files (x86)\miktex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+
+
+(C:\Program Files (x86)\miktex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+
+
+(C:\Program Files (x86)\miktex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<haar_features.png, id=1, 313.17pt x 287.0725pt>
+File: haar_features.png Graphic file (type png)
+<use haar_features.png>
+Package pdftex.def Info: haar_features.png  used on input line 23.
+(pdftex.def)             Requested size: 256.80104pt x 235.40097pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--28
+
+ []
+
+[1
+
+{C:/Users/Vasista/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2 <./haar_fe
+atures.png (PNG copy)>]
+<haar_nose.jpg, id=14, 622.2447pt x 368.577pt>
+File: haar_nose.jpg Graphic file (type jpg)
+<use haar_nose.jpg>
+Package pdftex.def Info: haar_nose.jpg  used on input line 40.
+(pdftex.def)             Requested size: 311.1216pt x 184.28804pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--45
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+<integral_image.png, id=19, 467.49657pt x 350.05782pt>
+File: integral_image.png Graphic file (type png)
+<use integral_image.png>
+Package pdftex.def Info: integral_image.png  used on input line 50.
+(pdftex.def)             Requested size: 327.24536pt x 245.03879pt.
+<Ada_boost.png, id=20, 823.075pt x 409.53pt>
+File: Ada_boost.png Graphic file (type png)
+<use Ada_boost.png>
+Package pdftex.def Info: Ada_boost.png  used on input line 62.
+(pdftex.def)             Requested size: 411.53648pt x 204.7645pt.
+ [4 <./haar_nose.jpg>] [5 <./integral_image.png>]
+<face.jpg, id=34, 1538.72504pt x 289.64905pt>
+File: face.jpg Graphic file (type jpg)
+<use face.jpg>
+Package pdftex.def Info: face.jpg  used on input line 70.
+(pdftex.def)             Requested size: 461.62108pt x 86.89537pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<LBP_Main_Facial.jpg, id=35, 379.4175pt x 380.42125pt>
+File: LBP_Main_Facial.jpg Graphic file (type jpg)
+<use LBP_Main_Facial.jpg>
+Package pdftex.def Info: LBP_Main_Facial.jpg  used on input line 77.
+(pdftex.def)             Requested size: 208.68027pt x 209.23232pt.
+<LBP-face.jpg, id=36, 315.0972pt x 154.6578pt>
+File: LBP-face.jpg Graphic file (type jpg)
+<use LBP-face.jpg>
+Package pdftex.def Info: LBP-face.jpg  used on input line 85.
+(pdftex.def)             Requested size: 220.56653pt x 108.2597pt.
+[6 <./Ada_boost.png>] [7 <./face.jpg> <./LBP_Main_Facial.jpg>] [8 <./LBP-face.j
+pg>] [9]
+<Conv_layer.png, id=50, 229.85875pt x 154.5775pt>
+File: Conv_layer.png Graphic file (type png)
+<use Conv_layer.png>
+Package pdftex.def Info: Conv_layer.png  used on input line 104.
+(pdftex.def)             Requested size: 160.90001pt x 108.20349pt.
+<395px-Typical_cnn.png, id=52, 396.48125pt x 122.4575pt>
+File: 395px-Typical_cnn.png Graphic file (type png)
+<use 395px-Typical_cnn.png>
+Package pdftex.def Info: 395px-Typical_cnn.png  used on input line 113.
+(pdftex.def)             Requested size: 396.48027pt x 122.45718pt.
+ [10 <./Conv_layer.png>] [11 <./395px-Typical_cnn.png>]
+<314px-Max_pooling.png, id=61, 315.1775pt x 182.6825pt>
+File: 314px-Max_pooling.png Graphic file (type png)
+<use 314px-Max_pooling.png>
+Package pdftex.def Info: 314px-Max_pooling.png  used on input line 125.
+(pdftex.def)             Requested size: 315.17673pt x 182.68204pt.
+ [12 <./314px-Max_pooling.png>] [13]
+Overfull \hbox (17.12782pt too wide) in paragraph at lines 165--165
+[] \OT1/cmr/bx/n/17.28 Power De-mand-ing Face-mask De-tec-tion mod-
+ []
+
+<ssdmnv2.png, id=71, 712.91344pt x 240.9pt>
+File: ssdmnv2.png Graphic file (type png)
+<use ssdmnv2.png>
+Package pdftex.def Info: ssdmnv2.png  used on input line 170.
+(pdftex.def)             Requested size: 427.75136pt x 144.5411pt.
+[14]
+<PUBLIC.png, id=75, 450.9347pt x 374.90062pt>
+File: PUBLIC.png Graphic file (type png)
+<use PUBLIC.png>
+Package pdftex.def Info: PUBLIC.png  used on input line 177.
+(pdftex.def)             Requested size: 360.74825pt x 299.9209pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./ssdmnv2.png>] [16 <./PUBLIC.png>] [17]
+Overfull \hbox (2.70801pt too wide) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 In-sti-tute of Elec-tri-cal and Elec-tron-ics En-gi-neers (IEEE
+). pp. 3642{3649.
+ []
+
+
+Overfull \hbox (28.22076pt too wide) in paragraph at lines 211--215
+\OT1/cmr/m/n/12 URL http://www.sciencedirect.com/science/ ar-ti-cle/pii/S221067
+0720308179 
+ []
+
+[18]
+Overfull \hbox (137.42102pt too wide) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 7950{7958. Cur-ran As-so-ciates, Inc. (2019). URL https://proce
+edings.neurips.cc/paper/2019/file/
+ []
+
+[19] [20] (Lit review.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2506 strings out of 478864
+ 34127 string characters out of 2855685
+ 333807 words of memory out of 3000000
+ 20414 multiletter control sequences out of 15000+600000
+ 413138 words of font info for 64 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,8n,66p,1379b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Vasista\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1200.pk><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
+ram Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les (x86)/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x8
+6)/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/mikt
+ex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/miktex/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/miktex/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on "Lit review.pdf" (20 pages, 1219025 bytes).
+PDF statistics:
+ 154 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
